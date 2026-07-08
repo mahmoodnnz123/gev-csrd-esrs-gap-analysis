@@ -1,9 +1,5 @@
 """
 GE Vernova — CSRD / ESRS Gap Analysis & Double Materiality Assessment
-Project 2 of 2
-
-Matin Bahadori, 2025
-M.Sc. Umwelttechnik — BTU Cottbus-Senftenberg
 
 Data source : GE Vernova Sustainability Report 2025
 Standard    : ESRS Set 1 (2023), CSRD (EU) 2022/2464, ESRS 1 Art. 3 (DMA)
